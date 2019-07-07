@@ -16,19 +16,36 @@ Successfully compiled code should look like this, use arrows to choose option fr
 
 
 ### Doctor Menu
+After choosing first line of the main menu your console should look like this. Now you can add doctor, delete doctor, 
+show doctor schedule, dispaly doctor info.
 
 
- 
+
+
+ ![image](https://user-images.githubusercontent.com/32485281/60770530-034ae500-a0dc-11e9-9fdb-617abba22c31.png)
 
 ### Patient Menu
-After choosing second line of the main menu your console should look like this, now you can 
+After choosing second line of the main menu your console should look like this. Now you can add patient, delete patient, display patient info.
+
+
+
+
+![image](https://user-images.githubusercontent.com/32485281/60770673-f202d800-a0dd-11e9-93b0-59e18717c2c4.png)
 
 ### Visit Menu
+After choosing third line of the main menu your console should look like this. Now you can add visit, delete visit, book visit, show visit info.
+
+
+
+
+![image](https://user-images.githubusercontent.com/32485281/60770696-473ee980-a0de-11e9-97ad-13918ebfb0e0.png)
 
 ### Prescription Menu
+After choosing fourth line of the main menu your console should look like this. Now you can add patient, delete patient, display patient info.
 
-### Ending screen
-After creating, loadind music or choosing "Quit :(" in the main menu your console should look like this.
+
+
+![image](https://user-images.githubusercontent.com/32485281/60770699-50c85180-a0de-11e9-96a9-7e7dd0b5f5a5.png
 
 
 #### Created by:

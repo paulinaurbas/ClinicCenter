@@ -1,5 +1,9 @@
 # MedicalCenter
 Console application to booking medical appointments.
+Using: 
+- smartpointers,
+- map, 
+- iterator. 
 ## Getting Started 
 Unfortunately app is only for windows users.
 To test MedicalCenter just download our repo and run the code in your IDE. In case of enormous numer of weird errors try to change Target Platform Version to your available one in project properties.

@@ -43,9 +43,7 @@ After choosing third line of the main menu your console should look like this. N
 ### Prescription Menu
 After choosing fourth line of the main menu your console should look like this. Now you can add patient, delete patient, display patient info.
 
-
-
-![image](https://user-images.githubusercontent.com/32485281/60770699-50c85180-a0de-11e9-96a9-7e7dd0b5f5a5.png
+![image](https://user-images.githubusercontent.com/32485281/60770728-9f75eb80-a0de-11e9-9652-4004f48a3079.png)
 
 
 #### Created by:

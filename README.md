@@ -9,6 +9,7 @@ Rarely Platform Toolcase also require modification.
 ## Running the app
 ### Main Menu
 Successfully compiled code should look like this, use arrows to choose option from the menu and confirm it with enter button. 
+![image](https://user-images.githubusercontent.com/32485281/60770514-b2d38780-a0db-11e9-9b60-1ab058c0af43.png)
 
 
 ### Doctor Menu
